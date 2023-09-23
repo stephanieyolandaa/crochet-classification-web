@@ -16,7 +16,6 @@ st.write("""
 
 file = st.file_uploader("Please upload an image of the crochet stitch", type=["jpg", "png", "jpeg"])
 
-import cv2
 from PIL import Image, ImageOps
 import numpy as np
 from skimage.color import rgb2gray
