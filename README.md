@@ -1,6 +1,6 @@
-<h1 align="center" id="title">🧶 Crochet Stitches Classification 🧶</h1>
+<h1 align="center" id="title">🧶 Crochet Stitches Classification Deployment 🧶</h1>
 
-<p id="description">This repository is used for deploymennt in Streamlit.</p>
+<p id="description">This repository is used for the deployment of the <a href="https://github.com/stephanieyolandaa/crochet-stitches-classification">Crochet Stitches Classification</a> project.</p>
 
 <h2>📷 About the website</h2>
 <p>The website is for crocheters to be able to identify the stitch used in a crochet work.</p>
